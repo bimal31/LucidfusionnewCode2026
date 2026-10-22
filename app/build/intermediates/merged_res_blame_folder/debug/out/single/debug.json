@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable_indicator_amber.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable/indicator_amber.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/layout_fragment_hindi_english_selection.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/layout/fragment_hindi_english_selection.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-xhdpi_ic_find_next_holo_dark.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-xhdpi/ic_find_next_holo_dark.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-hdpi_ic_no_connection.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-hdpi/ic_no_connection.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/layout_layout_send_to_server_list_row.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/layout/layout_send_to_server_list_row.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-hdpi_editbox_dropdown_background.9.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-hdpi/editbox_dropdown_background.9.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-xhdpi_cal.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-xhdpi/cal.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-xhdpi_ic_cab_done_mtrl_alpha.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-xhdpi/ic_cab_done_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-hdpi_icn_now.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-hdpi/icn_now.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/layout_fragment_splash.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/anim_start1.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/anim/start1.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/layout_fragment_contact_us.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/layout/fragment_contact_us.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/layout_fragment_report.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/layout/fragment_report.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-xhdpi_back2.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-xhdpi/back2.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-ldpi_app_bg.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-ldpi/app_bg.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-xhdpi_ic_menu_share_holo_dark.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-xhdpi/ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-hdpi_cal.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-hdpi/cal.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable_bn_disabled.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable/bn_disabled.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-xxhdpi_cal.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-xxhdpi/cal.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-xhdpi_ic_menu_edit.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-xhdpi/ic_menu_edit.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/layout_fragment_past_report.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/layout/fragment_past_report.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/layout_fragment_terms.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/layout/fragment_terms.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/layout_fragment_send_to_server.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/layout/fragment_send_to_server.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-hdpi_edit_query.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-hdpi/edit_query.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-xhdpi_stat_sys_upload_anim0.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-xhdpi/stat_sys_upload_anim0.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/anim_finish2.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/anim/finish2.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/layout_layout_title.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/layout/layout_title.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/layout_dialog_two_button.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/layout/dialog_two_button.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/anim_start2.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/anim/start2.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-hdpi_stat_sys_upload_anim0.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-hdpi/stat_sys_upload_anim0.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-hdpi_ic_find_next_holo_dark.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-hdpi/ic_find_next_holo_dark.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/layout_fragment_new_report.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/layout/fragment_new_report.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable_rounded_dark_transperent_background.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable/rounded_dark_transperent_background.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-hdpi_ic_cab_done_mtrl_alpha.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-hdpi/ic_cab_done_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-xxhdpi_back2.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-xxhdpi/back2.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-hdpi_ic_ab_back_holo_light_am.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-hdpi/ic_ab_back_holo_light_am.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/layout_spinner_item_row.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/layout/spinner_item_row.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable_btn_pressed.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable/btn_pressed.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/layout_layout_calculation.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/layout/layout_calculation.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable_btn_bg_pressed_bio.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable/btn_bg_pressed_bio.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/anim_finish1.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/anim/finish1.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-xhdpi_edit_query.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-xhdpi/edit_query.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable_rounded_corner_background.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable/rounded_corner_background.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable_rounded_corners.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable/rounded_corners.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-hdpi_back2.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-hdpi/back2.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-hdpi_app_bg.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-hdpi/app_bg.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-xhdpi_app_bg.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-xhdpi/app_bg.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-hdpi_btn_dropdown_normal.9.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-hdpi/btn_dropdown_normal.9.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/layout_layout_past_report_list_row.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/layout/layout_past_report_list_row.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-mdpi_app_bg.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-mdpi/app_bg.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-xhdpi_icn_now.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-xhdpi/icn_now.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/menu_main.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/menu/main.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-ldpi_back2.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-ldpi/back2.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-mdpi_back2.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-mdpi/back2.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-xxhdpi_app_bg.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-xxhdpi/app_bg.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-hdpi_ic_menu_edit.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-hdpi/ic_menu_edit.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-hdpi_ic_menu_share_holo_dark.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-hdpi/ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable_btn_selecttor.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable/btn_selecttor.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/drawable-ldpi_ic_launcher.png.flat",
+        "source": "com.org.lucidfusion.app-main-22:/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/layout_activity_main.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-merged_res-20:/anim_translate_top_to_center.xml.flat",
+        "source": "com.org.lucidfusion.app-main-22:/anim/translate_top_to_center.xml"
+    }
+]

@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.org.lucidfusion.app-mergeDebugResources-35:/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Devstree\\Desktop\\Ankur\\Android Project\\LucidFusion-main\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "183",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "326"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "147"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-mergeDebugResources-35:\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Devstree\\Desktop\\Ankur\\Android Project\\LucidFusion-main\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "183",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "312"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "133"
+                    }
+                }
+            ]
+        }
+    ]
+}

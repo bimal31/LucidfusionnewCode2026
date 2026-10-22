@@ -1,0 +1,40 @@
+com.org.lucidfusion.app-cardview-1.0.0-0 C:\Users\Devstree\.gradle\caches\transforms-4\0ca25ca9da5f4c45272d3d45cb89a54d\transformed\cardview-1.0.0\res
+com.org.lucidfusion.app-activity-1.9.2-1 C:\Users\Devstree\.gradle\caches\transforms-4\122a92c13b18b7c0bd300e6a30d02390\transformed\activity-1.9.2\res
+com.org.lucidfusion.app-lifecycle-viewmodel-savedstate-2.8.5-2 C:\Users\Devstree\.gradle\caches\transforms-4\146fb3dc0dbe79e3f4dcc7bd63a9955c\transformed\lifecycle-viewmodel-savedstate-2.8.5\res
+com.org.lucidfusion.app-lifecycle-runtime-release-3 C:\Users\Devstree\.gradle\caches\transforms-4\18e9e8038643ac6633e883ab0d7ec99a\transformed\lifecycle-runtime-release\res
+com.org.lucidfusion.app-fragment-ktx-1.8.3-4 C:\Users\Devstree\.gradle\caches\transforms-4\1d4c0955464c6f45b789a6a5dcd50be8\transformed\fragment-ktx-1.8.3\res
+com.org.lucidfusion.app-viewpager2-1.0.0-5 C:\Users\Devstree\.gradle\caches\transforms-4\22d168e9e83f57a6e0ca1f01113c3731\transformed\viewpager2-1.0.0\res
+com.org.lucidfusion.app-appcompat-1.7.0-6 C:\Users\Devstree\.gradle\caches\transforms-4\271d78cfde985cca2cb96329830e9d67\transformed\appcompat-1.7.0\res
+com.org.lucidfusion.app-core-1.13.1-7 C:\Users\Devstree\.gradle\caches\transforms-4\274bbf65ab6af097de45d8bc3e4780db\transformed\core-1.13.1\res
+com.org.lucidfusion.app-material-1.12.0-8 C:\Users\Devstree\.gradle\caches\transforms-4\3501b7b31b191664426fcc44cc0b06e2\transformed\material-1.12.0\res
+com.org.lucidfusion.app-transition-1.5.0-9 C:\Users\Devstree\.gradle\caches\transforms-4\356bf7eb87cb9db0841af4a40703a967\transformed\transition-1.5.0\res
+com.org.lucidfusion.app-profileinstaller-1.3.1-10 C:\Users\Devstree\.gradle\caches\transforms-4\37b5a4ab7f6ee5ad350dce63565b052e\transformed\profileinstaller-1.3.1\res
+com.org.lucidfusion.app-savedstate-ktx-1.2.1-11 C:\Users\Devstree\.gradle\caches\transforms-4\39f7815ffbf63dbeae7a639d98058093\transformed\savedstate-ktx-1.2.1\res
+com.org.lucidfusion.app-constraintlayout-2.0.1-12 C:\Users\Devstree\.gradle\caches\transforms-4\3a963d15107f5b918454542b82ff8dc4\transformed\constraintlayout-2.0.1\res
+com.org.lucidfusion.app-coordinatorlayout-1.1.0-13 C:\Users\Devstree\.gradle\caches\transforms-4\417d7ca248dac48605d1f56938f86898\transformed\coordinatorlayout-1.1.0\res
+com.org.lucidfusion.app-savedstate-1.2.1-14 C:\Users\Devstree\.gradle\caches\transforms-4\4deb03c90a6b61bf4facf338caebc2fc\transformed\savedstate-1.2.1\res
+com.org.lucidfusion.app-lifecycle-process-2.8.5-15 C:\Users\Devstree\.gradle\caches\transforms-4\5c4fd15d4116a627e54fbf3ce6a7da1c\transformed\lifecycle-process-2.8.5\res
+com.org.lucidfusion.app-fragment-1.8.3-16 C:\Users\Devstree\.gradle\caches\transforms-4\5eb708de61b0b071aa191f46a99188d4\transformed\fragment-1.8.3\res
+com.org.lucidfusion.app-core-ktx-1.13.1-17 C:\Users\Devstree\.gradle\caches\transforms-4\61afb5e87ae31b1e872471397d50ebd2\transformed\core-ktx-1.13.1\res
+com.org.lucidfusion.app-startup-runtime-1.1.1-18 C:\Users\Devstree\.gradle\caches\transforms-4\66b9541203ceb508d7f82119e93bd20d\transformed\startup-runtime-1.1.1\res
+com.org.lucidfusion.app-lifecycle-runtime-ktx-release-19 C:\Users\Devstree\.gradle\caches\transforms-4\71a5cff44947c76dbed538a579d22197\transformed\lifecycle-runtime-ktx-release\res
+com.org.lucidfusion.app-lifecycle-viewmodel-ktx-2.8.5-20 C:\Users\Devstree\.gradle\caches\transforms-4\73e56594452c5105a8f4afce83e67477\transformed\lifecycle-viewmodel-ktx-2.8.5\res
+com.org.lucidfusion.app-annotation-experimental-1.4.0-21 C:\Users\Devstree\.gradle\caches\transforms-4\75d76792c467a9d1d7263ec07890ef18\transformed\annotation-experimental-1.4.0\res
+com.org.lucidfusion.app-lifecycle-livedata-core-ktx-2.8.5-22 C:\Users\Devstree\.gradle\caches\transforms-4\7ce076b4f0353519a1c2af35d66f2fdf\transformed\lifecycle-livedata-core-ktx-2.8.5\res
+com.org.lucidfusion.app-core-runtime-2.2.0-23 C:\Users\Devstree\.gradle\caches\transforms-4\7efd46db291007845a4ec905ba308255\transformed\core-runtime-2.2.0\res
+com.org.lucidfusion.app-drawerlayout-1.1.1-24 C:\Users\Devstree\.gradle\caches\transforms-4\8036216ec3579ac295f437c094f4517d\transformed\drawerlayout-1.1.1\res
+com.org.lucidfusion.app-emoji2-1.3.0-25 C:\Users\Devstree\.gradle\caches\transforms-4\953db484806099d21fe05f81edf4f607\transformed\emoji2-1.3.0\res
+com.org.lucidfusion.app-appcompat-resources-1.7.0-26 C:\Users\Devstree\.gradle\caches\transforms-4\a076a48751be9d990736d243b944e206\transformed\appcompat-resources-1.7.0\res
+com.org.lucidfusion.app-lifecycle-livedata-core-2.8.5-27 C:\Users\Devstree\.gradle\caches\transforms-4\b149b7f59891444cf9d394148c8c249e\transformed\lifecycle-livedata-core-2.8.5\res
+com.org.lucidfusion.app-lifecycle-livedata-2.8.5-28 C:\Users\Devstree\.gradle\caches\transforms-4\b1c60defab7f7963c57b692c63f26d69\transformed\lifecycle-livedata-2.8.5\res
+com.org.lucidfusion.app-emoji2-views-helper-1.3.0-29 C:\Users\Devstree\.gradle\caches\transforms-4\bcf4d2ccea4813496b998b21b233456f\transformed\emoji2-views-helper-1.3.0\res
+com.org.lucidfusion.app-lifecycle-viewmodel-release-30 C:\Users\Devstree\.gradle\caches\transforms-4\bfbc3efbee5e7666f3bc1440f68bc97a\transformed\lifecycle-viewmodel-release\res
+com.org.lucidfusion.app-activity-ktx-1.9.2-31 C:\Users\Devstree\.gradle\caches\transforms-4\ccba758667872b2db10c3f2ca589b549\transformed\activity-ktx-1.9.2\res
+com.org.lucidfusion.app-recyclerview-1.1.0-32 C:\Users\Devstree\.gradle\caches\transforms-4\f3225063b4b123116624abccb0a8344a\transformed\recyclerview-1.1.0\res
+com.org.lucidfusion.app-pngs-33 C:\Users\Devstree\Desktop\Ankur\Android Project\LucidFusion-main\app\build\generated\res\pngs\debug
+com.org.lucidfusion.app-resValues-34 C:\Users\Devstree\Desktop\Ankur\Android Project\LucidFusion-main\app\build\generated\res\resValues\debug
+com.org.lucidfusion.app-packageDebugResources-35 C:\Users\Devstree\Desktop\Ankur\Android Project\LucidFusion-main\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.org.lucidfusion.app-packageDebugResources-36 C:\Users\Devstree\Desktop\Ankur\Android Project\LucidFusion-main\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.org.lucidfusion.app-debug-37 C:\Users\Devstree\Desktop\Ankur\Android Project\LucidFusion-main\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.org.lucidfusion.app-debug-38 C:\Users\Devstree\Desktop\Ankur\Android Project\LucidFusion-main\app\src\debug\res
+com.org.lucidfusion.app-main-39 C:\Users\Devstree\Desktop\Ankur\Android Project\LucidFusion-main\app\src\main\res

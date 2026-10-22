@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-mergeDebugResources-36:\\layout\\fragment_terms.xml",
+        "source": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-main-39:\\layout\\fragment_terms.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-mergeDebugResources-36:\\layout\\fragment_new_report.xml",
+        "source": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-main-39:\\layout\\fragment_new_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-mergeDebugResources-36:\\layout\\layout_send_to_server_list_row.xml",
+        "source": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-main-39:\\layout\\layout_send_to_server_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-mergeDebugResources-36:\\layout\\fragment_splash.xml",
+        "source": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-main-39:\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-mergeDebugResources-36:\\layout\\layout_past_report_list_row.xml",
+        "source": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-main-39:\\layout\\layout_past_report_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-mergeDebugResources-36:\\layout\\fragment_contact_us.xml",
+        "source": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-main-39:\\layout\\fragment_contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-mergeDebugResources-36:\\layout\\dialog_two_button.xml",
+        "source": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-main-39:\\layout\\dialog_two_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-mergeDebugResources-36:\\layout\\layout_calculation.xml",
+        "source": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-main-39:\\layout\\layout_calculation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-mergeDebugResources-36:\\layout\\fragment_past_report.xml",
+        "source": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-main-39:\\layout\\fragment_past_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-mergeDebugResources-36:\\layout\\spinner_item_row.xml",
+        "source": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-main-39:\\layout\\spinner_item_row.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-mergeDebugResources-36:/layout/layout_title.xml",
+        "source": "com.org.lucidfusion.app-main-39:/layout/layout_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-mergeDebugResources-36:\\layout\\fragment_report.xml",
+        "source": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-main-39:\\layout\\fragment_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-mergeDebugResources-36:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-mergeDebugResources-36:\\layout\\fragment_send_to_server.xml",
+        "source": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-main-39:\\layout\\fragment_send_to_server.xml"
+    },
+    {
+        "merged": "com.org.lucidfusion.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "com.org.lucidfusion.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-mergeDebugResources-36:\\layout\\layout_title.xml",
+        "source": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-main-39:\\layout\\layout_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-mergeDebugResources-36:\\layout\\fragment_hindi_english_selection.xml",
+        "source": "C:\\Users\\Devstree\\.gradle\\daemon\\8.7\\com.org.lucidfusion.app-main-39:\\layout\\fragment_hindi_english_selection.xml"
+    }
+]
